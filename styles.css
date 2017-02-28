@@ -1,0 +1,39 @@
+
+.name {
+	color: brown;
+	font-style: italic;
+}
+
+h1 {
+	color: Green;
+	font-size: 250;
+	border-bottom: thick dotted yellow;
+}
+
+h2 {
+	color:Red;
+	border: 5px solid purple
+}
+h3 {
+	color:Purple;
+	text-decoration: overline;;
+}
+
+p {
+	color:blue;
+	border-left: thick double yellow;
+
+}
+
+body {
+	background:#00ffff;
+}
+
+ul {
+	border: 2px solid;
+	background: yellow;
+	border-bottom-right-radius: 2em;
+	font-variant: small-caps;
+}
+
+
